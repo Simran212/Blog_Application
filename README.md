@@ -4,11 +4,6 @@
 It's a Blogging Web App built with MERN Stack , where users can create their own blogs and can view ans react to other's blog 
 and share there thoughts with each other.
 
-
-
-## Badges
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables
